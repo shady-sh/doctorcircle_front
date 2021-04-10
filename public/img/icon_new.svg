@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="15" height="15" viewBox="0 0 15 15">
+    <g transform="translate(-1196 -1050)">
+        <circle cx="7.5" cy="7.5" r="7.5" fill="#fe494e" transform="translate(1196 1050)"/>
+        <text fill="#fff" stroke="#fff" stroke-width="0.2px" font-family="Roboto-Bold, Roboto" font-size="10px" font-weight="700" letter-spacing="-0.02em" transform="translate(1200 1061)">
+            <tspan x="0" y="0">N</tspan>
+        </text>
+    </g>
+</svg>

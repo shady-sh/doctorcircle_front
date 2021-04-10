@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="22" height="22" viewBox="0 0 22 22">
+    <defs>
+        <style>
+            .cls-1{fill:#222}
+        </style>
+    </defs>
+    <g id="icon_account" transform="translate(14574 21394)">
+        <path id="교차_5" d="M998.789 248.081l1.29-7.081h9.841l1.291 7.081a11.007 11.007 0 0 1-12.421 0z" class="cls-1" transform="translate(-15568 -21622)"/>
+        <rect id="사각형_808" width="4" height="5" class="cls-1" rx="1" transform="translate(-14565 -21388)"/>
+        <g id="타원_48" fill="none" stroke="#222" transform="translate(-14574 -21394)">
+            <circle cx="11" cy="11" r="11" stroke="none"/>
+            <circle cx="11" cy="11" r="10.5"/>
+        </g>
+    </g>
+</svg>

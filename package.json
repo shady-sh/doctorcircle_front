@@ -1,0 +1,92 @@
+{
+  "name": "doctorvill-front",
+  "version": "0.1.0",
+  "private": true,
+  "dependencies": {
+    "@material-ui/core": "^4.11.3",
+    "@testing-library/jest-dom": "^5.11.9",
+    "@testing-library/react": "^11.2.5",
+    "@testing-library/user-event": "^12.6.3",
+    "axios": "^0.21.1",
+    "axios-extensions": "^3.1.3",
+    "bootstrap": "^4.6.0",
+    "dateformat": "^4.5.1",
+    "draft-js": "^0.11.7",
+    "draftjs-to-html": "^0.9.1",
+    "glob": "^7.1.6",
+    "http-proxy-middleware": "^0.19.1",
+    "i18next": "^19.9.0",
+    "i18next-browser-languagedetector": "^6.0.1",
+    "i18next-xhr-backend": "^3.2.2",
+    "jquery": "^3.5.1",
+    "jquery.cookie": "^1.4.1",
+    "mdbreact": "^5.0.1",
+    "node-sass": "^5.0.0",
+    "react": "^17.0.0",
+    "react-beforeunload": "^2.4.0",
+    "react-bootstrap": "^1.4.3",
+    "react-data-export": "^0.6.0",
+    "react-datepicker": "^3.6.0",
+    "react-dom": "^17.0.1",
+    "react-download-link": "^2.3.0",
+    "react-export-excel": "^0.5.3",
+    "react-https-redirect": "^1.1.0",
+    "react-i18next": "^11.8.8",
+    "react-iframe": "^1.8.0",
+    "react-image": "^4.0.3",
+    "react-paginate": "^7.1.2",
+    "react-redux": "^7.2.2",
+    "react-responsive": "^8.2.0",
+    "react-router-dom": "^5.2.0",
+    "react-scripts": "4.0.2",
+    "react-slick": "^0.28.0",
+    "redux": "^4.0.5",
+    "redux-devtools-extension": "^2.13.8",
+    "redux-logger": "^3.0.6",
+    "redux-saga": "^1.1.3",
+    "redux-thunk": "^2.3.0",
+    "slick-carousel": "^1.8.1",
+    "styled-components": "^5.2.1",
+    "swiper": "^6.4.15",
+    "tempa-xlsx": "^0.8.20",
+    "web-vitals": "^1.1.0",
+    "xlsx": "^0.16.9"
+  },
+  "scripts": {
+    "dev": "webpack",
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test",
+    "eject": "react-scripts eject"
+  },
+  "eslintConfig": {
+    "extends": [
+      "react-app",
+      "react-app/jest"
+    ]
+  },
+  "browserslist": {
+    "production": [
+      ">0.2%",
+      "not dead",
+      "not op_mini all"
+    ],
+    "development": [
+      "last 1 chrome version",
+      "last 1 firefox version",
+      "last 1 safari version"
+    ]
+  },
+  "devDependencies": {
+    "@babel/core": "^7.12.3",
+    "@babel/plugin-proposal-class-properties": "^7.13.0",
+    "@babel/preset-env": "^7.13.9",
+    "@babel/preset-react": "^7.12.13",
+    "babel-loader": "^8.1.0",
+    "style-loader": "^1.3.0",
+    "uglifyjs-webpack-plugin": "^2.2.0",
+    "video.js": "^7.11.4",
+    "webpack": "^4.44.2",
+    "webpack-cli": "^4.5.0"
+  }
+}

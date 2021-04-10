@@ -1,0 +1,75 @@
+* {
+  line-height: 1.15em;
+}
+
+p,
+a,
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+  transform: skew(-0.1deg);
+}
+
+.loginBox, .m_only a{
+  font-size: 17px;
+}
+
+.cursor {
+  cursor: pointer;
+}
+
+.live-header {
+  header {
+    background-color: #fff;
+    .logo {
+      background-image: url(../img/logo.png);
+    }
+    .account.on {
+      background-image: url(../img/icon_account_b_on.svg);
+    }
+    .navBtn {
+      background-image: url(../img/hamburger_btn_b.svg);
+    }
+  }
+}
+
+.centered {
+  margin: 0 auto;
+  text-align: center;
+}
+.account_list {
+  z-index: 100;
+  position: absolute;
+  width: 100px;
+  top: 30px;
+  left: -70px;
+  background-color: #fff;
+  border-radius: 6px;
+  .items {
+    padding-top: 10px;
+    padding-bottom: 10px;
+    font-size: 14px;
+    font-weight: normal;
+  }
+}
+
+.live-h3 {
+  font-family: "Roboto", "NanumSquare", sans-serif;
+  font-size: 25px;
+  color: #bfbcbc;
+}
+
+.pagination {
+  display: table;
+  margin: 0 auto;
+  li {
+    display: inline-block;
+  }
+  .page-item.active .page-link {
+    color: #fff;
+    background-color: #319fdc;
+  }
+}
